@@ -1,4 +1,3 @@
-﻿
 |AGID_logo_carta_intestata-02.png|
 
 +--------------------------------------------------------+
@@ -43,6 +42,7 @@ Stato del documento
 +-----------------------+-----------------------+-----------------------+
 
 Sintesi dei cambiamenti
+===================
 
 +------------------------------------------------------------------------+
 | **Lista dei principali cambiamenti rispetto la revisione precedente:** |
