@@ -1,4 +1,3 @@
-﻿
 |AGID_logo_carta_intestata-02.png|
 
 +--------------------------------------------------------+
@@ -21,9 +20,9 @@ presso il PSP.
 Lo scopo di tale modello è quello di uniformare la produzione degli
 avvisi analogici in modo da:
 
-1. Fornire la stessa *user experience* a tutti gli utenti del sistema
+1. Fornire la stessa *user experience* a tutti gli utenti del sistema;
 
-2. Assicurare la coerenza e la completezza dei contenuti
+2. Assicurare la coerenza e la completezza dei contenuti;
 
 3. Massimizzare la possibilità che l’avviso sia pagabile presso tutti i
    canali autorizzati.
