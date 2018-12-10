@@ -10,8 +10,11 @@
 +--------------------------------------------------------+
 
 
-1. istruzioni per la produzione
+Istruzioni per la produzione
 ===============================
+
+1. Istruzioni per la produzione
+---------------
 
 `In Allegato 1 - (Modello di avviso in formato PDF) <https://github.com/italia/pagopa-avvisoanalogico-docs/blob/master/_docs/Allegato_1_Modello_di_avviso_di_pagamento_v2.1.pdf>`_ è fornito il
 modello di avviso di pagamento utilizzabile sia per il pagamento in
@@ -23,8 +26,13 @@ di formato A4.
 specifiche per la produzione del documento in tutte le casistiche
 previste.
 
+
+Pagamento in Unica Soluzione
+===============================
+
 1.1 Pagamento in Unica Soluzione
---------------------------------
+------------------------------
+
 
 La prima pagina del modello, che va comunque predisposta, è logicamente
 suddivisa in sei zone orizzontali, ognuna delle quali destinata a
@@ -134,8 +142,12 @@ riconoscono le seguenti tipologie:
       dall’EC, purché la lunghezza non ecceda il numero di caratteri
       disponibili.
 
+
+Pagamento rateale
+===============================
+
 1.2 Pagamento rateale
----------------------
+------------------------------
 
 La seconda e terza pagina del modello sono da utilizzare, come pagine
 aggiuntive alla prima descritta nel paragrafo precedente, qualora l'Ente
@@ -143,6 +155,10 @@ Creditore consenta di rateizzare il pagamento. In particolare il modello
 raggruppa le rate per due (seconda pagina) o per tre (terza pagina) in
 modo che l’EC abbia l’opportunità di stampare l’avviso per un qualsiasi
 frazionamento del pagamento, minimizzando il numero di pagine stampate.
+
+
+Gestione del Transitorio
+===============================
 
 1.3 Gestione del Transitorio
 ----------------------------
