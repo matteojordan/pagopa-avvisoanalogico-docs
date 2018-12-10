@@ -6,6 +6,7 @@ Guida tecnica avviso analogico
 ############################################################################################
 
 .. toctree::
+   :maxdepth: 2
    :caption: Indice dei contenuti
    
    _docs/STATO_DEL_DOCUMENTO.rst
