@@ -42,7 +42,7 @@ Stato del documento
 +-----------------------+-----------------------+-----------------------+
 
 Sintesi dei cambiamenti
-===================
+-----------------------
 
 +------------------------------------------------------------------------+
 | **Lista dei principali cambiamenti rispetto la revisione precedente:** |
