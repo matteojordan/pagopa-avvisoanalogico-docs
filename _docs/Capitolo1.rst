@@ -1,4 +1,3 @@
-﻿
 |AGID_logo_carta_intestata-02.png|
 
 +--------------------------------------------------------+
@@ -10,6 +9,7 @@
 +--------------------------------------------------------+
 
 
+===============================
 Istruzioni per la produzione
 ===============================
 
@@ -26,9 +26,6 @@ di formato A4.
 specifiche per la produzione del documento in tutte le casistiche
 previste.
 
-
-Pagamento in Unica Soluzione
-===============================
 
 1.1 Pagamento in Unica Soluzione
 ------------------------------
@@ -143,9 +140,6 @@ riconoscono le seguenti tipologie:
       disponibili.
 
 
-Pagamento rateale
-===============================
-
 1.2 Pagamento rateale
 ------------------------------
 
@@ -156,9 +150,6 @@ raggruppa le rate per due (seconda pagina) o per tre (terza pagina) in
 modo che l’EC abbia l’opportunità di stampare l’avviso per un qualsiasi
 frazionamento del pagamento, minimizzando il numero di pagine stampate.
 
-
-Gestione del Transitorio
-===============================
 
 1.3 Gestione del Transitorio
 ----------------------------
