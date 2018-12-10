@@ -156,7 +156,7 @@ contenute nella presente monografia entro il 1 dicembre 2018.
 
 La data a partire dalla quale sarà possibile produrre il Bollettino PA
 integrato nel nuovo “Avviso di pagamento analogico nel sistema PagoPA”
-(vedi Zona tecnica per i pagamenti presso Poste Italiane) sarà
+(vedi zona tecnica per i pagamenti presso Poste Italiane) sarà
 comunicata dalle stesse Poste Italiane.
 
 
