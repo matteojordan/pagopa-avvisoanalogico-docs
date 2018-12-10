@@ -9,7 +9,7 @@
 | **Versione** **2.1 -** **maggio 2018**                 |
 +--------------------------------------------------------+
 
-Scopo Del Documento
+Scopo del documento
 ===================
 
 Lo scopo del documento è quello di fornire indicazioni per la produzione
